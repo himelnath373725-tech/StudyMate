@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate ",
+  "description": "An all-in-one academic productivity app specifically designed for students in Bangladesh, featuring routine management, assignments, focus timer, and AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
